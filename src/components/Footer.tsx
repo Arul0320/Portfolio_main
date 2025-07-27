@@ -1,4 +1,4 @@
-import { Heart, ArrowUp } from 'lucide-react';
+import { ArrowUp } from 'lucide-react';
 
 const Footer = () => {
   const scrollToTop = () => {
@@ -50,7 +50,7 @@ const Footer = () => {
               <h4 className="text-lg font-semibold mb-4">Contact</h4>
               <div className="space-y-2 text-gray-400 dark:text-gray-500">
                 <p>arulrani2002@gmail.com</p>
-                <p>+91 936853701</p>
+                <p>+91 9360853701</p>
                 <p>Salem, Tamil Nadu</p>
               </div>
             </div>
@@ -60,7 +60,7 @@ const Footer = () => {
           <div className="border-t border-gray-700 dark:border-gray-800 pt-8 flex flex-col md:flex-row items-center justify-between">
             <div className="text-gray-400 dark:text-gray-500 mb-4 md:mb-0">
               <p className="flex items-center gap-2">
-                Made with <Heart size={16} className="text-red-500" /> by ARULMURUGAN S
+                Made with  by ARULMURUGAN S
               </p>
             </div>
             <div className="text-gray-400 dark:text-gray-500 text-sm">

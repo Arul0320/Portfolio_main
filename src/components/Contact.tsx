@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import emailjs from '@emailjs/browser';
-import { Mail, Phone, MapPin, Send, Github, Linkedin, Twitter } from 'lucide-react';
+import { Mail, Phone, MapPin, Send, Github, Linkedin, Twitter, InstagramIcon } from 'lucide-react';
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -51,21 +51,23 @@ const Contact = () => {
     {
       icon: Phone,
       label: 'Phone',
-      value: '+91 936853701',
-      href: 'tel:+91 936853701',
+      value: '+91 9360853701',
+      href: 'tel:+91 9360853701',
     },
     {
       icon: MapPin,
       label: 'Location',
       value: 'Salem, Tamil Nadu',
-      href: '#',
+      href: 'https://www.google.com/maps/place/Salem,+Tamil+Nadu',
     },
+    
   ];
 
   const socialLinks = [
     { icon: Github, href: 'https://github.com/Arul0320', label: 'GitHub' },
     { icon: Linkedin, href: 'https://www.linkedin.com/in/arulmurugan-s-371227335/', label: 'LinkedIn' },
     { icon: Twitter, href: 'https://x.com/Im_Ro03', label: 'Twitter' },
+    { icon: InstagramIcon, href: 'https://www.instagram.com/__s_a_m__h_e_r_e__03?igsh=b3IwbTM4emo4d2pk', label: 'Instagram' },
   ];
 
   return (
