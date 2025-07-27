@@ -61,7 +61,7 @@ const Hero = () => {
               <div className="relative z-10">
                 <div className="w-80 h-80 mx-auto rounded-full overflow-hidden border-4 border-white dark:border-gray-700 shadow-2xl">
                   <img
-                    src="/images/DSC_8213_11zon200.jpg"
+                    src="assets/images/DSC_8213_11zon200.jpg"
                     alt="Profile"
                     className="w-full h-full object-cover"
                   />

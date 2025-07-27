@@ -7,7 +7,7 @@ const Projects = () => {
       title: 'Readers Dot',
       description:
         'Collaborated with educational experts to create customized reading tasks aligned with grade-level standards, leading to a 15% improvement in student reading levels and a 20% increase in user ratings.',
-      image: 'images/readersdot.avif',
+      image: 'assets/images/readersdot.avif',
       technologies: ['HTML', 'CSS', 'Django', 'Python', 'GitHub'],
       githubUrl: 'https://github.com/Arul0320/ReadersDot',
     },
@@ -16,7 +16,7 @@ const Projects = () => {
       title: 'Loan Approval Prediction Model',
       description:
         'Developed a model using regression analysis to predict optimal interest rates with 90% accuracy. The system helped reduce default rates by 15% and improved profitability through smarter lending decisions.',
-      image: 'images/loan.jpeg',
+      image: 'assets/images/loan.jpeg',
       technologies: ['Python', 'Pandas', 'NumPy', 'Scikit-learn', 'Flask', 'SQLAlchemy', 'MySQL', 'Git'],
       githubUrl: 'https://github.com/arul0320/ReadersDot',
     },
@@ -25,7 +25,7 @@ const Projects = () => {
       title: 'Personal Portfolio Website',
       description:
         'A responsive portfolio website showcasing projects and skills with animations and dark mode.',
-      image: 'images/portfolio.webp',
+      image: 'assets/images/portfolio.webp',
       technologies: ['React', 'Tailwind CSS', 'JavaScript', 'GitHub'],
       // githubUrl: 'https://github.com/Arul0320/portfolio-Bolt',
     },
@@ -34,7 +34,7 @@ const Projects = () => {
       title: 'Music Player App',
       description:
         'A responsive music player app with a sleek design, featuring playlists, search functionality, and offline playback.',
-      image: 'images/music.webp',
+      image: 'assets/images/music.webp',
       technologies: ['HTML', 'CSS', 'JavaScript', 'GitHub'],
       githubUrl: 'https://github.com/Arul0320/Music-Plsyer',
     },
@@ -43,7 +43,7 @@ const Projects = () => {
       title: 'Student Management System',
       description:
         ' A web application for managing student records, attendance, and grades with user authentication.',
-      image: 'images/student.jpeg',
+      image: 'assets/images/student.jpeg',
       technologies: ['Python', 'Django', 'SQL', 'React', 'GitHub'],
       githubUrl: 'https://github.com/Arul0320/StudentsBook',
     },
@@ -52,7 +52,7 @@ const Projects = () => {
       title: 'To Do List App',
       description:
         ' A simple and intuitive to-do list app with features like task categorization, due dates, and reminders.',
-      image: 'images/todo.avif',
+      image: 'assets/images/todo.avif',
       technologies: ['HTML', 'CSS', 'Django', 'Python', 'GitHub'],
       githubUrl: 'https://github.com/Arul0320/ToDo_List',
     },
